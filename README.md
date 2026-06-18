@@ -1,14 +1,5 @@
-# 🩺 AEGIS Health – AI Preventive Healthcare Intelligence Platform
 
-![React](https://img.shields.io/badge/Frontend-React-61DAFB)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248)
-![AI](https://img.shields.io/badge/AI-Powered-red)
-![Status](https://img.shields.io/badge/Status-Live-success)
-
----
-
-## 🚀 Overview
+## Overview
 
 AEGIS Health is an AI-powered preventive healthcare intelligence platform designed to identify disease risks before they become severe medical conditions.
 
@@ -23,9 +14,9 @@ The platform combines:
 
 Unlike traditional disease prediction systems, AEGIS focuses on proactive and preventive healthcare.
 
----
 
-## 🎯 Problem Statement
+
+## Problem Statement
 
 Millions of people discover chronic diseases only after symptoms become severe.
 
@@ -37,11 +28,11 @@ AEGIS Health aims to:
 - Deliver personalized recommendations
 - Enable intelligent healthcare decision-making
 
----
 
-# ✨ Core Features
 
-## 🤖 AI Medical Assistant
+# Core Features
+
+## AI Medical Assistant
 
 Evidence-aware healthcare assistant capable of:
 
@@ -50,9 +41,9 @@ Evidence-aware healthcare assistant capable of:
 - Providing preventive guidance
 - Delivering personalized recommendations
 
----
 
-## 🩺 Disease Risk Prediction
+
+## Disease Risk Prediction
 
 Predicts risks for:
 
@@ -69,9 +60,9 @@ Outputs:
 - Probability
 - Confidence Metrics
 
----
 
-## 📋 Symptom Analyzer
+
+## Symptom Analyzer
 
 Users can describe symptoms in natural language.
 
@@ -86,9 +77,9 @@ The AI system:
 - Performs disease mapping
 - Generates preventive suggestions
 
----
 
-## 📊 Health Intelligence Dashboard
+
+## Health Intelligence Dashboard
 
 Provides:
 
@@ -98,9 +89,9 @@ Provides:
 - Disease Probability Distribution
 - Personalized Recommendations
 
----
 
-## 🔗 Medical Knowledge Graph
+
+## Medical Knowledge Graph
 
 Interactive graph relationships between:
 
@@ -111,9 +102,9 @@ Interactive graph relationships between:
 
 Supports explainable medical reasoning.
 
----
 
-## 👤 Digital Twin
+
+## Digital Twin
 
 Creates a virtual health profile for users.
 
@@ -123,7 +114,7 @@ Capabilities:
 - Risk progression forecasting
 - Preventive scenario testing
 
----
+
 
 ## 📄 Health Reports
 
@@ -148,7 +139,7 @@ Premium healthcare intelligence layer featuring:
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 ```text
 Frontend (React)
@@ -185,9 +176,8 @@ AI Layer
 MongoDB Database
 ```
 
----
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -216,47 +206,8 @@ MongoDB Database
 - Cloud Deployment
 - CI/CD Ready
 
----
 
-# 📸 Screenshots
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Symptom Analyzer
-
-![Symptom Analyzer](screenshots/symptom-analyzer.png)
-
----
-
-## AI Assistant
-
-![AI Assistant](screenshots/ai-assistant.png)
-
----
-
-## Knowledge Graph
-
-![Knowledge Graph](screenshots/knowledge-graph.png)
-
----
-
-## Digital Twin
-
-![Digital Twin](screenshots/digital-twin.png)
-
----
-
-## Premium AI Coach
-
-![Premium AI Coach](screenshots/premium-ai-coach.png)
-
----
-
-# 🔒 Security
+# Security
 
 Implemented security measures:
 
@@ -266,25 +217,7 @@ Implemented security measures:
 - Input Validation
 - Protected Resources
 
----
-
-# 📈 Future Enhancements
-
-Planned upgrades:
-
-- Wearable Device Integration
-- SHAP Explainable AI
-- OCR Medical Report Analysis
-- Real-Time Monitoring
-- Health Forecasting Models
-- Federated Learning
-- Population Health Analytics
-- FHIR Integration
-- Multi-Language Support
-
----
-
-# 🎯 Impact
+# Impact
 
 AEGIS Health transforms healthcare from:
 
@@ -297,26 +230,7 @@ Helping individuals:
 - Take preventive actions
 - Make informed health decisions
 
----
 
-# 👨‍💻 Author
 
-### Swayam Maitra
 
-AI • Machine Learning • Full Stack Development • Healthcare Intelligence
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-## Predict. Prevent. Protect.
-
-### AEGIS Health — The Future of Preventive Healthcare Intelligence.
